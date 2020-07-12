@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"420e":function(t,e,n){},ac0e:function(t,e,n){"use strict";var a=n("420e"),c=n.n(a);c.a},f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("Todo list v 0.1.0")])])}],s=(n("ac0e"),n("2877")),u={},i=Object(s["a"])(u,a,c,!1,null,"211923ba",null);e["default"]=i.exports}}]);
-//# sourceMappingURL=about.bf39057f.js.map
