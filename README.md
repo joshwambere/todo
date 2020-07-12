@@ -1,7 +1,13 @@
 # todolist
 
 ```
-this is the todo app built in vue js
+This is the todo app built in vue js
+
+```
+## Netlify link to access it 
+```
+ https://johnsontodo.netlify.app/
+ 
 ```
 ## Project setup
 ```
@@ -17,11 +23,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
