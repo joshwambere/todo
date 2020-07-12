@@ -1,5 +1,8 @@
-# todo_list
+# todolist
 
+```
+this is the todo app built in vue js
+```
 ## Project setup
 ```
 npm install
